@@ -1,17 +1,16 @@
 # Exercicios da Lista 3: LAÇOS DE REPETIÇÃO!
 
 **Ex.1 -** Escreva um algoritmo que exiba 20 vezes a mensagem informando qual vez está sendo escrita:
-“Esta é a mensagem 1”, “Esta é a mensagem 2” ... “Esta é a mensagem 20”
+                 
+                             “Esta é a mensagem 1”, “Esta é a mensagem 2” ... “Esta é a mensagem 20”
 
-**Ex.2 -** Escreva um algoritmo que calcule o somatório dos números de um intervalo informado pelo
-usuário.
+**Ex.2 -** Escreva um algoritmo que calcule o somatório dos números de um intervalo informado pelo usuário.
 
 **Ex.3 -** Leia o nome do usuário e escreva o nome dele na tela 10 vezes.
 
 **Ex.4 -** Leia o nome de um usuário e um número N e escreva o nome dele na tela N vezes.
 
-**Ex.5 -** Escreva um algoritmo que leia 10 números informados pelo usuário e calcule a soma desses
-números
+**Ex.5 -** Escreva um algoritmo que leia 10 números informados pelo usuário e calcule a soma desses números.
 
 **Ex.6 -** Leia a idade de 20 pessoas e exiba a média das idades.
 
@@ -19,64 +18,43 @@ números
 
 **Ex.8 -** Leia o nome e a idade de 10 pessoas e exiba o nome da pessoa mais nova.
 
-**Ex.9 -** Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são
-maiores do que 8
+**Ex.9 -** Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são maiores do que 8.
 
-**Ex.10 -** Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são
-pares
+**Ex.10 -** Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são pares.
 
 **Ex.11 -** Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e 100.
 
-**Ex.12 -** Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e
-a. 100, quantos estão entre 101 e 200 e quantos são maiores de 200.
+**Ex.12 -** Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e 100, quantos estão entre 101 e 200 e quantos são maiores de 200.
 
-**Ex.13 -** Escreva um algoritmo que leia uma sequência de números do usuário e realize a soma desses
-números. Encerre a execução quando um número negativo for digitado
+**Ex.13 -** Escreva um algoritmo que leia uma sequência de números do usuário e realize a soma desses números. Encerre a execução quando um número negativo for digitado
 
-**Ex.14 -** Faça um algoritmo escreva a diversas vezes a pergunta “Olá tudo bem?” e leia a
-a. resposta do usuário enquanto ele responde não. Só encerre a execução quando a resposta
-for igual a “Sim”.
+**Ex.14 -** Faça um algoritmo escreva a diversas vezes a pergunta “Olá tudo bem?” e leia a resposta do usuário enquanto ele responde não. Só encerre a execução quando a resposta for igual a “Sim”.
 
-**Ex.15 -** Desenvolva um algoritmo capaz de apresentar na tela o fatorial de um número inteiro informado
-pelo usuário.
+**Ex.15 -** Desenvolva um algoritmo capaz de apresentar na tela o fatorial de um número inteiro informado pelo usuário.
 
-**Ex.16 -** Escreva um algoritmo que simule o funcionamento de um caixa de supermercado. O
-a. seu algoritmo deve receber do a informação de quantos produtos o cliente comprou e, para
-cada produto, deverá ler o seu preço. Ao final, deverá informar quanto o cliente deve pagar
-pelas compras.
+**Ex.16 -** Escreva um algoritmo que simule o funcionamento de um caixa de supermercado. O seu algoritmo deve receber do a informação de quantos produtos o cliente comprou e, para cada produto, deverá ler o seu preço. Ao final, deverá informar quanto o cliente deve pagar pelas compras.
 
-**Ex.17 -** Em um restaurante Self-Service, o preço do quilo custa R$ 23,59. Crie um algoritmo
-a. que, para cada cliente, leia o peso do prato e valor gasto com bebida e calcule o valor total
-da conta que o cliente irá pagar. Só encerre a execução quando o peso do prato digitado for igual a 0 e o valor da bebida for também igual a 0.
+**Ex.17 -** Em um restaurante Self-Service, o preço do quilo custa R$ 23,59. Crie um algoritmo que, para cada cliente, leia o peso do prato e valor gasto com bebida e calcule o valor total da conta que o cliente irá pagar. Só encerre a execução quando o peso do prato digitado for igual a 0 e o valor da bebida for também igual a 0.
 
                                   valor da conta = bebida + (peso * 15) 
                                     
-**Ex.18 -** Escreva um algoritmo que leia a quantidade de alunos em uma turma. Em seguida,
-a. para cada aluno, leia a informação de suas 2 notas, calcule a média e informe se o
-b. aluno está aprovado ou reprovado. O aluno está aprovado apenas se a sua média for maior
-ou igual a 6.
+**Ex.18 -** Escreva um algoritmo que leia a quantidade de alunos em uma turma. Em seguida, para cada aluno, leia a informação de suas 2 notas, calcule a média e informe se o aluno está aprovado ou reprovado. 
+
+                                  O aluno está aprovado apenas se a sua média for maior ou igual a 6.
 
 **Ex.19 -** Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa deverá calcular e mostrar :
 
 a. A menor altura do grupo;
 b. A maior altura do grupo;Connect 2022
 
-**Ex.20 -** Uma loja de animais vende gatos e cachorros. Escreva um algoritmo que leia a quantidade de
-animais da loja e, para cada animal, leia a informação da espécie do animal (se é gato ou
-cachorro). Ao final, exiba a quantidade de animais que são gatos e a quantidade de animais que
-são cachorros existentes na loja
+**Ex.20 -** Uma loja de animais vende gatos e cachorros. Escreva um algoritmo que leia a quantidade de animais da loja e, para cada animal, leia a informação da espécie do animal (se é gato ou cachorro). Ao final, exiba a quantidade de animais que são gatos e a quantidade de animais que são cachorros existentes na loja
 
-**Ex.21 -** O restaurante da questão 17 realiza reservas de mesas através de ligações telefônicas e possui 50
-mesas disponíveis para reserva. Dessas mesas, 25 são na área de fumantes e 25 na área de não
-fumantes. Para cada ligação recebida, o restaurante deve verificar se a reserva é para a mesa na
-área de fumantes ou de não fumantes e contabilizar a quantidade de mesas restantes disponíveis
-em cada área. 
+**Ex.21 -** O restaurante da questão 17 realiza reservas de mesas através de ligações telefônicas e possui 50 mesas disponíveis para reserva. Dessas mesas, 25 são na área de fumantes e 25 na área de não fumantes. Para cada ligação recebida, o restaurante deve verificar se a reserva é para a mesa na área de fumantes ou de não fumantes e contabilizar a quantidade de mesas restantes disponíveis em cada área. 
 
-    Construa um algoritmo que realize a reserva das mesas e encerre a execução quando não houver mais mesas 
-    disponíveis (nem na área de fumantes, nem na área de não fumantes).
+    Construa um algoritmo que realize a reserva das mesas e encerre a execução quando não houverem mais mesas disponíveis.
+                                (nem na área de fumantes, nem na área de não fumantes).
 
-**Ex.22 -** Um viajante decidiu se aventurar e percorrer toda a BR 101 de carro a partir do quilômetro 0 até
-ultrapassar o quilômetro 4000, parando em várias cidades durante o percurso. Crie um algoritmo que, em cada cidade que o viajante parar, leia a informação da quilometragem percorrida e adicione ao valor da quilometragem total. Encerre o algoritmo quando o valor da quilometragem total percorrida for igual ou ultrapassar os 4000 km.
+**Ex.22 -** Um viajante decidiu se aventurar e percorrer toda a BR 101 de carro a partir do quilômetro 0 até ultrapassar o quilômetro 4000, parando em várias cidades durante o percurso. Crie um algoritmo que, em cada cidade que o viajante parar, leia a informação da quilometragem percorrida e adicione ao valor da quilometragem total. Encerre o algoritmo quando o valor da quilometragem total percorrida for igual ou ultrapassar os 4000 km.
 
 **Ex.23 -** Foi feita uma pesquisa de canal de TV em várias casas da cidade de João Câmara. Para cada casa visitada, foi preenchida uma ficha contendo o número do canal (3, 5, 8, 11 ou 13) e o número de pessoas que estavam assistindo o canal naquela casa. Faça um algoritmo que:
 
