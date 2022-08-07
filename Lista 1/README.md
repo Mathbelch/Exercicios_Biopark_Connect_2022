@@ -2,9 +2,9 @@
 
 **Ex.1 -**  A imobiliária lmóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de um terreno e depois exibir sua área.
 
-**Ex.2 -**	Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos compra­ dos para um haras.
+**Ex.2 -**	Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras.
 
-**Ex.3 -**	A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de broas a cada dia. Cada pãozinho custa R$ O,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos pães e broas juntos, e quanto deve guardar numa conta de poupança (10% do total arre­cadado). Você foi contratado para fazer os cálculos para o dono. Com base nestes fatos, faça um algoritmo para ler as quantidades de pães e de broas, e depois calcular os dados solicitados.
+**Ex.3 -**	A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de broas a cada dia. Cada pãozinho custa R$ O,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos pães e broas juntos, e quanto deve guardar numa conta de poupança (10% do total arrecadado). Você foi contratado para fazer os cálculos para o dono. Com base nestes fatos, faça um algoritmo para ler as quantidades de pães e de broas, e depois calcular os dados solicitados.
 
 **Ex.4 -** Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui. Considere sempre anos completos, e que um ano possui 365 dias. 
 
@@ -41,13 +41,13 @@ ordenado (x,y).
         Ex: uma conta de R$101,53 resulta em R$33,00 para Carlos, R$33,00 para André e R$35,53 para Felipe.
 
 **Ex.16 -** A lanchonete Gostosura vende apenas um tipo de sanduíche, cujo recheio inclui duas fatias de queijo, uma
-fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo ou presunto pesa 50 gra­mas, e que a rodela de hambúrguer pesa 100 gramas, faça um algoritmo em que o dono forneça a quanti­dade de sanduíches a fazer, e a máquina informe as quantidades (em quilos) de queijo, presunto e carne necessários para compra.
+fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo ou presunto pesa 50 gramas, e que a rodela de hambúrguer pesa 100 gramas, faça um algoritmo em que o dono forneça a quantidade de sanduíches a fazer, e a máquina informe as quantidades (em quilos) de queijo, presunto e carne necessários para compra.
 
 **Ex.17 -** Alguns países medem temperaturas em graus Celsius, e outros em graus Fahrenheit. Faça um algoritmo para ler uma temperatura Celsius e imprimi-la em Fahrenheit (pesquise como fazer este tipo de conversão).
 
 **Ex.18 -**	A empresa Hipotheticus paga R$10,00 por hora normal trabalhada, e R$15,00 por hora extra. Faça um algoritmo para calcular e imprimir o salário bruto e o salário líquido de um determinado funcionário. Considere que o salário líquido é igual ao salário bruto descontando-se 10% de impostos.
  
-**Ex.19 -**	A granja Frangotech possui um controle automatizado de cada frango da sua produção. No pé direito do frango há um anel com um chip de identificação; no pé esquerdo são dois anéis para indicar o tipo de ali­ mento que ele deve consumir. Sabendo que o anel com chip custa R$4,00 e o anel de alimento custa R$3,50, faça um algoritmo para calcular o gasto total da granja para marcar todos os seus frangos.
+**Ex.19 -**	A granja Frangotech possui um controle automatizado de cada frango da sua produção. No pé direito do frango há um anel com um chip de identificação; no pé esquerdo são dois anéis para indicar o tipo de alimento que ele deve consumir. Sabendo que o anel com chip custa R$4,00 e o anel de alimento custa R$3,50, faça um algoritmo para calcular o gasto total da granja para marcar todos os seus frangos.
 
 **Ex.20 -**	Uma confecção produz X blusas de lã e para isto gasta uma certa quantidade de novelos. Faça um algoritmo para calcular quantos novelos de lã ela gasta por blusa.
 
@@ -73,8 +73,8 @@ fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo 
 
 **Ex.31 -**	Faça um algoritmo que receba o peso de uma pessoa, calcule e mostre:
 
-            * o novo peso se a pessoa engordar 15% sobre o peso digitado;
-            * o novo peso se a pessoa emagrecer 20% sobre o peso digitado.
+             O novo peso se a pessoa engordar 15% sobre o peso digitado;
+             O novo peso se a pessoa emagrecer 20% sobre o peso digitado.
 
 **Ex.32 -**	Faça um algoritmo que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
 
@@ -88,7 +88,7 @@ fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo 
 
 **Ex.35 -**	Faça um algoritmo que calcule e mostre a área de um losango. 
 
-            A = (diagonal_maior * diago­ nal_menor)/2
+            A = (diagonal_maior * diagonal_menor)/2
 
 **Ex.36 -**	Faça um algoritmo que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
 
@@ -96,10 +96,10 @@ fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo 
 
 **Ex.3 -**	Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 
-            * a idade dessa pessoa em anos;
-            * a idade dessa pessoa em meses;
-            * a idade dessa pessoa em dias;
-            * a idade dessa pessoa em semanas.
+            A idade dessa pessoa em anos;
+            A idade dessa pessoa em meses;
+            A idade dessa pessoa em dias;
+            A idade dessa pessoa em semanas.
 
 **Ex.39 -** João recebeu seu salário de R$ 1200,00 e precisa pagar duas contas (C1=R$ 200,00 e C2=R$120,00) que estão atrasadas. Como as contas estão atrasadas, João terá de pagar multa de 2% sobre cada conta. Faça um algoritmo que calcule e mostre quanto restará do salário do João.
 
