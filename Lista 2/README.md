@@ -19,11 +19,11 @@
 
 **Ex.8 -** Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado. 
 
-                                Código Condição de pagamento
-                    a) À vista em dinheiro ou cheque, recebe 10% de desconto
-                    b) À vista no cartão de crédito, recebe 15% de desconto
-                    c) Em duas vezes, preço normal de etiqueta sem juros
-                    d) Em duas vezes, preço normal de etiqueta mais juros de 10%
+                    Código Condição de pagamento:
+                    A - À vista em dinheiro ou cheque, recebe 10% de desconto
+                    B - À vista no cartão de crédito, recebe 15% de desconto
+                    C - Em duas vezes, preço normal de etiqueta sem juros
+                    D - Em duas vezes, preço normal de etiqueta mais juros de 10%
 
 **Ex.9 -** Escreva um algoritmo que leia o número de identificação do aluno, 3 notas obtidas e calcule a média aritmética obtida pelo aluno. Ao final informe se o aluno foi aprovado direto, ficou em recuperação ou foi reprovado por nota.
 
@@ -48,25 +48,32 @@
 
 **Ex.15 -** Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença.
 
-                            Código Cargo Percentual
-                            101 Gerente 10%
-                            102 Engenheiro 20%
-                            103 Técnico 30%
+| Código | Cargo | Percentual |
+| --- | --- | --- |
+| 101 | Gerente | 10% |
+| 102 | Engenheiro | 20% |
+| 103 | Técnico | 30% |
+
+                   
 
 **Ex.16 -**  Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito.
 
-                            Saldo Médio Percentual
-                            De 0 a 200 Nenhum crédito
-                            De 201 a 400 20%
-                            De 401 a 600 30%
-                            Acima de 601 40%
+| Saldo Médio | Percentual | 
+| --- | --- | 
+| De 0 a 200 | Nenhum crédito | 
+| De 201 a 400 | 20% | 
+| De 401 a 600 | 30% |                           
+| Acima de 601 | 40% |                            
+                            
 
 **Ex.17 -** Para uma lanchonete, escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item. O cardápio é o seguinte:
 
-                            Produto Preço
-                            Cachorro quente R$11,00
-                            Bauru R$ 8,50
-                            Misto Quente R$ 8,00
-                            Hamburger R$ 9,00
-                            Cheeseburger R$10,00
-                            Refrigerante R$ 4,50
+| Produto | Preço | 
+| --- | --- | 
+| Cachorro quente | R$11,00 | 
+| Bauru | R$ 8,50 | 
+| Misto Quente | R$ 8,00 |                           
+| Hamburger | R$ 9,00 |
+| Cheeseburger | R$10,00 |                            
+| Refrigerante | R$ 4,50 |                            
+                           
