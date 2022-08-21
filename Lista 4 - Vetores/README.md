@@ -12,13 +12,11 @@
 
 **Ex.3** - Crie um vetor A com 8 elementos inteiros. Construir um vetor B de mesmo tipo e tamanho e com os elementos do vetor A multiplicados por 
         2, ou seja: 
-        
-                                                     B[i] = A[i] * 2.
+        $$B[i] = A[i] * 2.$$
 
 **Ex.4** - Crie dois vetores A e B cada um com 10 elementos inteiros. Construir um vetor C, onde cada elemento de C
         é a soma dos respectivos elementos em A e B, ou seja:
-        
-                                                     C[i] = A[i] + B[i].
+        $$C[i] = A[i] + B[i].$$
       
 
 **Ex.5** - Criar um vetor A com 10 elementos inteiros. Escrever um programa que calcule e escreva:
