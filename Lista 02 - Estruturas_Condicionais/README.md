@@ -12,10 +12,11 @@
 
 **Ex.6 -** Escreva um algoritmo que leia três valores inteiros e diferentes e mostre-os em ordem decrescente.
 
-**Ex.7 -** Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-
-                                ● para homens: (72.7 * h) – 58;
-                                ● para mulheres: (62.1 * h) – 44.7.
+**Ex.7 -** Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br />
+Para homens: 
+$$PesoIdeal = (72.7 * h) – 58 $$
+Para mulheres: 
+$$PesoIdeal = (62.1 * h) – 44.7$$
 
 **Ex.8 -** Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado. 
 
