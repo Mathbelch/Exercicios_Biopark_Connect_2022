@@ -1,5 +1,5 @@
 # Exercicios da Lista 3.2: Estruturas de Controle!
-## Imple algoritmos que:<br />
+## Implemente algoritmos que:<br />
 **Ex.1** - Dados três números inteiros digitados pelo usuário diga qual é o maior e o menor entre eles.
 <br />
 
@@ -36,4 +36,6 @@
 
 **Ex.7** - Dado um número n, escreva na tela um 'X' formado por asteriscos, conforme a figura abaixo. Permita que apenas números ímpares sejam utilizados como entrada.
 <br />  
+![ex imagem](https://user-images.githubusercontent.com/109366042/185813569-8d031748-f149-4e6c-b3f2-6bc7d2b075a4.png) 
+
 **Ex.8** - Escreva um programa que descubra um número imaginado pelo usuário entre 0 e n. Para cada valor sugerido pelo programa como sendo o valor imaginado pelo usuário, o usuário deve responder (honestamente) se o valor sugerido peloprograma é igual, menor ou maior do que o valor imaginado. A execução do programa deve terminar assim que o programa "adivinhar" o valor imaginado pelo usuário.
