@@ -6,10 +6,9 @@
 
 **Ex.3 -**	A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de broas a cada dia. Cada pãozinho custa R$ O,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos pães e broas juntos, e quanto deve guardar numa conta de poupança (10% do total arrecadado). Você foi contratado para fazer os cálculos para o dono. Com base nestes fatos, faça um algoritmo para ler as quantidades de pães e de broas, e depois calcular os dados solicitados.
 
-**Ex.4 -** Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui. Considere sempre anos completos, e que um ano possui 365 dias. 
-
-    Ex: uma pessoa com 19 anos possui 6935 dias de vida; 
-    veja um exemplo de saída: MARIA, VOC JÁ VIVEU 6935 DIAS!
+**Ex.4 -** Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui. Considere sempre anos completos, e que um ano possui 365 dias. <br /><br />
+*Ex: uma pessoa com 19 anos possui 6935 dias de vida; <br />
+     veja um exemplo de saída: MARIA, VOC JÁ VIVEU 6935 DIAS!*<br />
 
 **Ex.5 -**	Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo para ler o preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele conseguiu colocar no tanque.
 
@@ -28,17 +27,15 @@ ordenado (x,y).
 
 **Ex.12 -**	Faça um algoritmo para ler o salário de um funcionário e aumentá-lo em 15%. Após o aumento, desconte 8% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final.
 
-**Ex.13 -** Ler um número inteiro (assuma até três dígitos) e imprimir a saída da seguinte forma: 
-
-        CENTENA = x 
-        DEZENA = x
-        UNIDADE = x
+**Ex.13 -** Ler um número inteiro (assuma até três dígitos) e imprimir a saída da seguinte forma: <br />
+        • CENTENA = x <br />
+        • DEZENA = x<br />
+        • UNIDADE = x
 
 **Ex.14 -**	Calcule a área de uma pizza que possui um raio R, sendo pi = 3.14.
 
-**Ex.15 -** Três amigos, Carlos, André e Felipe. decidiram rachar igualmente a conta de um bar. Faça um algoritmo para ler o valor total da conta e imprimir quanto cada um deve pagar, mas faça com que Carlos e André não paguem centavos. 
-
-        Ex: uma conta de R$101,53 resulta em R$33,00 para Carlos, R$33,00 para André e R$35,53 para Felipe.
+**Ex.15 -** Três amigos, Carlos, André e Felipe. decidiram rachar igualmente a conta de um bar. Faça um algoritmo para ler o valor total da conta e imprimir quanto cada um deve pagar, mas faça com que Carlos e André não paguem centavos. <br /><br />
+*Ex: Uma conta de R$101,53 resulta em R$33,00 para Carlos, R$33,00 para André e R$35,53 para Felipe.*<br />
 
 **Ex.16 -** A lanchonete Gostosura vende apenas um tipo de sanduíche, cujo recheio inclui duas fatias de queijo, uma
 fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo ou presunto pesa 50 gramas, e que a rodela de hambúrguer pesa 100 gramas, faça um algoritmo em que o dono forneça a quantidade de sanduíches a fazer, e a máquina informe as quantidades (em quilos) de queijo, presunto e carne necessários para compra.
@@ -71,24 +68,20 @@ fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo 
 
 **Ex.30 -**	Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um algoritmo que receba o salário fixo de um funcionário e o valor de suas vendas, calcule e mostre a comissão e o salário final do funcionário.
 
-**Ex.31 -**	Faça um algoritmo que receba o peso de uma pessoa, calcule e mostre:
-
-             O novo peso se a pessoa engordar 15% sobre o peso digitado;
-             O novo peso se a pessoa emagrecer 20% sobre o peso digitado.
+**Ex.31 -**	Faça um algoritmo que receba o peso de uma pessoa, calcule e mostre:<br />
+        • O novo peso se a pessoa engordar 15% sobre o peso digitado;<br />
+        • O novo peso se a pessoa emagrecer 20% sobre o peso digitado.<br />
 
 **Ex.32 -**	Faça um algoritmo que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
 
 **Ex.33 -**	Faça um algoritmo que calcule e mostre a área de um trapézio. 
-
-             A = (base maior + base menor)* altura)/2
+$$A = \frac{(baseMaior + baseMenor) * altura}{2}$$ 
 
 **Ex.34 -** Faça um algoritmo que calcule e mostre a área de um quadrado. 
-
-            A = lado * lado
+$$A = lado * lado $$
 
 **Ex.35 -**	Faça um algoritmo que calcule e mostre a área de um losango. 
-
-            A = (diagonal_maior * diagonal_menor)/2
+$$A = \frac{diagonalMaior * diagonalMenor}{2}$$
 
 **Ex.36 -**	Faça um algoritmo que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
 
@@ -96,10 +89,10 @@ fatia de presunto e uma rodela de hambúrguer. Sabendo que cada fatia de queijo 
 
 **Ex.3 -**	Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 
-            A idade dessa pessoa em anos;
-            A idade dessa pessoa em meses;
-            A idade dessa pessoa em dias;
-            A idade dessa pessoa em semanas.
+            • A idade dessa pessoa em anos;
+            • A idade dessa pessoa em meses;
+            • A idade dessa pessoa em dias;
+            • A idade dessa pessoa em semanas.
 
 **Ex.39 -** João recebeu seu salário de R$ 1200,00 e precisa pagar duas contas (C1=R$ 200,00 e C2=R$120,00) que estão atrasadas. Como as contas estão atrasadas, João terá de pagar multa de 2% sobre cada conta. Faça um algoritmo que calcule e mostre quanto restará do salário do João.
 
