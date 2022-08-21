@@ -31,8 +31,9 @@
 | 9 | _ _ _ _ . | 
 <br />
 
-**Ex.6** - Dado um número inteiro, escrever o mesmo em código Morse. O código Morse deve ser fornecido na mesma ordem dos caracteres digitados. Utilize o programa que calcula o logaritmo de 10 para auxiliá­lo nesta tarefa !
+**Ex.6** - Dado um número inteiro, escrever o mesmo em código Morse. O código Morse deve ser fornecido na mesma ordem dos caracteres digitados. Utilize o programa que calcula o logaritmo de 10 para auxiliá-lo nesta tarefa !
 <br />
 
 **Ex.7** - Dado um número n, escreva na tela um 'X' formado por asteriscos, conforme a figura abaixo. Permita que apenas números ímpares sejam utilizados como entrada.
-           
+<br />  
+**Ex.8** - Escreva um programa que descubra um número imaginado pelo usuário entre 0 e n. Para cada valor sugerido pelo programa como sendo o valor imaginado pelo usuário, o usuário deve responder (honestamente) se o valor sugerido peloprograma é igual, menor ou maior do que o valor imaginado. A execução do programa deve terminar assim que o programa "adivinhar" o valor imaginado pelo usuário.
