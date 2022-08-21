@@ -1,4 +1,4 @@
-# Exercicios da Lista 4: VETORES!
+# Exercicios da Lista 1.2: COMANDOS BÁSICOS 2!
 
 **Ex.1** - Faça um programa que leia um número real x e calcule o valor de 
 
@@ -28,7 +28,7 @@
            deve ler o valor da temperatura e então imprimir o valor correspondente da temperatura
            na outra unidade de medida. 
            
-                                Obs.: (C = 5=9 * (F - 32)).
+                                         C = 5/9 * (F - 32).
 
 **Ex.8** - Faça um programa que leia um ano (valor inteiro) e imprima se ele é bissexto ou não. 
            OBS: São bissexto todos os anos múltiplos de 400. Não sendo múltiplo de 400, são 
@@ -37,7 +37,7 @@
 **Ex.9** - Faça um programa que leia os três lados de um triângulo e informe se ele é isósceles,
            escaleno ou equilátero. 
            
-                                OBS: equilátero: possui os três lados iguais; 
+                                     equilátero: possui os três lados iguais; 
                                      isósceles: possui pelo menos dois lados iguais; 
                                      escaleno: possui os três lados distintos.
 
@@ -48,12 +48,11 @@
 **Ex.11** - Escreva um programa que leia uma coordenada (x; y) do teclado e imprima como resposta
             o quadrante de um plano cartesiano em que essa coordenada se encontra.
 
-**Ex.12** - Uma pessoa pode se aposentar pelo INSS caso esteja em alguma das situações abaixo:
+**Ex.12** - Crie um programa para ler um caracter 'M' ou 'F' que representa o sexo de um indivíduo, sua idade e o 
+            tempo de contribuição de INSS, para então imprimir: 'Aposentável' ou 'Não Aposentável', deacordo com 
+            os critérios abaixo para se aposentar:
 
                 • É do sexo masculino, possui pelo menos 65 anos, e pelo menos 10 anos de contribuição.
                 • É do sexo masculino, possui pelo menos 63 anos, e pelo menos 15 anos de contribuição.
                 • É do sexo feminino, possui pelo menos 63 anos, e pelo menos 10 anos de contribuição.
                 • É do sexo feminino, possui pelo menos 61 anos, e pelo menos 15 anos de contribuição.
-                Crie um programa para ler um caracter ’M’ ou ’F’ que representa o sexo de um indivíduo,
-
-            O programa deve ler a idade o tempo de contribuição para, então imprimir: 'Aposentável' ou 'Não Aposentável' .
