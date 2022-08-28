@@ -87,7 +87,7 @@ $$A = \frac{diagonalMaior * diagonalMenor}{2}$$
 
 **Ex.37 -** Faça um algoritmo que calcule e mostre a tabuada de um número digitado pelo usuário.
 
-**Ex.3 -**	Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+**Ex.38 -**	Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 
             • A idade dessa pessoa em anos;
             • A idade dessa pessoa em meses;
