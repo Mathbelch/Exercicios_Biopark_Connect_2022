@@ -1,4 +1,4 @@
-# Exercicios da Lista 5.3: Ponteiros!
+# Exercicios da Lista 5.2: Ponteiros e Structs!
 
 **Ex.1** - Faça a alocação dinâmica de um vetor.
 
