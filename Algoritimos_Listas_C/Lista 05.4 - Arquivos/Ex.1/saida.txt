@@ -1,0 +1,2 @@
+Texto Original: ola meus amigos, essas sao ana, anaiza a analaura.
+Texto Modificado: olA meus Amigos, essAs sAo AnA, AnAizA A AnAlAurA.
