@@ -15,4 +15,4 @@ quantas vezes aquele caractere ocorre dentro do arquivo.
 
 **Ex.7** - Faça um programa que receba do usuário um arquivo texto e mostre na tela quantas vezes cada letra do alfabeto aparece dentro do arquivo;
 
-**Ex.7** - Faça um programa que receba do usuário um arquivo texto. Crie outro arquivo texto contendo o texto do arquivo de entrada, mas com as vogais substituídas por *;
+**Ex.8** - Faça um programa que receba do usuário um arquivo texto. Crie outro arquivo texto contendo o texto do arquivo de entrada, mas com as vogais substituídas por *;
