@@ -32,8 +32,8 @@
 
 **Ex.16 -** Faça um algoritmo que receba o peso de uma pessoa, calcule e mostre:
 <ul>
-<li>a. o novo peso se a pessoa engordar 15% sobre o peso digitado;</li>
-<li>b. o novo peso se a pessoa emagrecer 20% sobre o peso digitado</li>
+<li>o novo peso se a pessoa engordar 15% sobre o peso digitado;</li>
+<li>o novo peso se a pessoa emagrecer 20% sobre o peso digitado</li>
 </ul>
 
 **Ex.17 -** Faça um algoritmo que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
@@ -50,10 +50,10 @@
 
 **Ex.23 -** Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 <ul>
-<li>a. a idade dessa pessoa em anos;</li>
-<li>b. a idade dessa pessoa em meses;</li>
-<li>c. a idade dessa pessoa em dias</li>
-<li>d. a idade dessa pessoa em semanas.</li>
+<li>a idade dessa pessoa em anos;</li>
+<li>a idade dessa pessoa em meses;</li>
+<li>a idade dessa pessoa em dias</li>
+<li>a idade dessa pessoa em semanas.</li>
 </ul>
 
 **Ex.24 -**   João recebeu seu salário de R$ 1200,00 e precisa pagar duas contas (C1=R$ 200,00 e C2=R$120,00) que estão atrasadas. Como as contas estão atrasadas, João terá de pagar multa de 2% sobre cada conta. Faça um algoritmo que calcule e mostre quanto restará do salário do João.
