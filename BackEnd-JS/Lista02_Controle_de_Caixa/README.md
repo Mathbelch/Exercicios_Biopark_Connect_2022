@@ -1,4 +1,4 @@
-# Exercicios da Lista 1: CONTROLE DE CAIXA!
+# Exercicios da Lista 2: CONTROLE DE CAIXA!
 
 **Ex.1 -** Você é o dono de uma cantina e deseja iniciar a venda de cachorro quentes. Um cachorro quente custa R$8,00. Se comprar dois, fica R$15,00 (oportunidade de ouro). Faça um algoritmo que receba um pedido nesta cantina; Você deve adicionar uma lista de produtos que já foram vendidos; Você deve criar um controle de caixa, para ver quanto entrou de dinheiro;
 
