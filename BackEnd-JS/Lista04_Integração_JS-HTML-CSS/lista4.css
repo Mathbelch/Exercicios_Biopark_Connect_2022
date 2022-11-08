@@ -1,0 +1,16 @@
+h1{
+    color: rgb(214, 121, 121);
+    text-align: center;
+    margin-top: 50px;
+}
+.parte1, .ex5, .ex6, .ex7, .ex8, .ex9{
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px 250px 0 250px
+}
+
+#Ex5, #pai1, #pai2, #pai3, #pai4{
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+
